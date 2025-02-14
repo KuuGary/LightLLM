@@ -1,0 +1,11 @@
+accelerate==0.20.3
+einops==0.7.0
+matplotlib==3.7.0
+numpy
+pandas==1.5.3
+scikit_learn==1.2.2
+scipy
+tqdm
+peft
+transformers
+deepspeed

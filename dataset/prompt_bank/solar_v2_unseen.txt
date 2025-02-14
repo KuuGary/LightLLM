@@ -1,0 +1,3 @@
+The Spectral-Solar dataset combines spectral sensor data with readings from solar cells to model the influence of spectral conditions on solar power output. The dataset captures observations of 18 different spectral wavelengths alongside readings from three distinct solar cells, organized in repeated cycles. Each cycle consists of 18 wavelengths followed by 3 solar outputs, providing a comprehensive snapshot of environmental impacts on solar cell efficiency.
+
+This setup is tailored to enhance models that infer solar power outputs based on spectral data, leveraging intricate relationships between varied spectral inputs and power output. The primary objective is to utilize sequences of spectral data to accurately infer the corresponding solar cell outputs.
