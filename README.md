@@ -25,4 +25,13 @@ Training logs are saved in train_result.log by default (see run_main.py).
 LoRA checkpoints will be placed in ./checkpoints/. Feel free to delete or keep them as needed.
 
 ## Citation
-If you find LightLLM helpful in your research, please consider citing our work. Detailed citation information will be provided soon.
+If you find LightLLM helpful in your research, please consider citing our work. 
+```
+@inproceedings{hu2025lightllm,
+  title={Lightllm: A versatile large language model for predictive light sensing},
+  author={Hu, Jiawei and Jia, Hong and Hassan, Mahbub and Yao, Lina and Kusy, Brano and Hu, Wen},
+  booktitle={Proceedings of the 23rd ACM Conference on Embedded Networked Sensor Systems},
+  pages={158--171},
+  year={2025}
+}
+```
